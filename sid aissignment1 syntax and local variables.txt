@@ -1,0 +1,8 @@
+//Monthly expenses (rent, utilities, food, repairs, gas, entertainment)
+
+
+int rent; int utilities; int food; int repairs; int gas; int entertainment;
+
+//Monthly Income (salary, social security, investment income)
+
+int salary; int socialsecurity; int investment;
